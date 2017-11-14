@@ -1,3 +1,5 @@
+' If there are multiple Macro in each workbooks, without manually click each one, we can use this 
+
 Sub RunOnAllSheets()
 Dim wrkSht As Worksheet
 
