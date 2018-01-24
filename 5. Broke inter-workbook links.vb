@@ -23,3 +23,5 @@
  	                    Cells.Replace what:=replacename, Replacement:="", LookAt:=xlPart, SearchOrder:=xlByRows, MatchCase:=False 'execute the replacement with parameters.
  	                Next Worksheet
  	            End If
+
+		End Sub 
