@@ -1,5 +1,5 @@
 
-Function OneFilterCAP(strFilterHeaderName_1 As String _
+Function CopyAndPasteOneFilter(strFilterHeaderName_1 As String _
 , strFilterValue_1 As String _
 , strCopyHeaderName As String _
 , strCopySheetName As String _
