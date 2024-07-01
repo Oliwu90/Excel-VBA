@@ -1,4 +1,4 @@
-Sub Speed_Turn_On()
+Sub TurnOffAlerts()
 With Application
             .DisplayAlerts = False
             .ScreenUpdating = False
